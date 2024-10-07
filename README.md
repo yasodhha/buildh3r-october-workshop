@@ -1,6 +1,10 @@
 # buildh3r-october-workshop
 
-This folder contains all the solutions to the workshops
+This folder contains all the solutions to the following workshops
+
+1. ALEO
+2. HEDERA
+3. METIS
 
 # Solutions
 
